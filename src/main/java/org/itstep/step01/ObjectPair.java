@@ -4,7 +4,7 @@ package org.itstep.step01;
  * Иммутабельный двойной кортеж
  *
  * Этот класс редактировать не нужно!!!
- * 
+ *
  * @author Nathan Sprague
  * @version V1, 8/2016
  */
@@ -15,7 +15,7 @@ public class ObjectPair {
 
   /**
    * Создаем объект ObjectTuple на базе двух объектов.
-   * 
+   *
    * @param first первый объект
    * @param second второй объект
    */
